@@ -3,7 +3,7 @@ import './App.css';
 import Card from './Card';
 import {Link, Route, Routes} from 'react-router-dom'; 
 // import {Link} from 'react-router-dom'; 
-import Victoriasponge from './pages/victoriasponge';
+import Victoriasponge from './victoriasponge';
 import Counter from './counter';
 
 
