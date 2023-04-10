@@ -1,0 +1,14 @@
+.button__text {
+ color: rgb(219, 17, 182);
+ font-style: bold;
+}
+
+button {
+    color: lightblue;
+    border-style: solid;
+    border-color: orange;
+    border-width: 10px;
+    font-size: small;
+    
+}
+
